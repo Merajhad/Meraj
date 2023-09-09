@@ -1,4 +1,4 @@
-merajhaddadi class 12
+
 452
 122
 4230
@@ -189,6 +189,7 @@ $request celestia1a35035fu83jkeeqz00d3jmt3k5wu5x3lyvn6qp
 
 ------------------------------------- 
 با کد زیر هم میتونید موجودی ولت خودتون رو ببنید  که به جای ایکس ها ادرس خودتون رو وارد کنید 
+source $HOME/.bash_profile اضافی
 
 celestia-appd q bank balances xxxxxxxxxx
 
