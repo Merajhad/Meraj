@@ -1,8 +1,4 @@
 
-452
-122
-4230
-
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
@@ -170,7 +166,7 @@ curl -s localhost:26657/status | grep block_height
 
 celestia-appd keys add $CELESTIA_WALLET
 
-اطلاعات دریافتی این بخش رو توی نوت پد برای خودتون ذخیره کنید
+حتما اطلاعات دریافتی این بخش رو توی نوت پد برای خودتون ذخیره کنید 
 
 -----------------------------------
 CELESTIA_ADDR=$(celestia-appd keys show $CELESTIA_WALLET -a) 
@@ -193,4 +189,4 @@ source $HOME/.bash_profile اضافی
 
 celestia-appd q bank balances xxxxxxxxxx
 
-موفق و پیروز باشید.حدادی
+موفق و پیروز باشید. 
