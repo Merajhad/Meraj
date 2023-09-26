@@ -20,6 +20,8 @@ echo $BOOTSTRAP_PEERS
 ------------------------------------------------
 sed -i.bak -e "s/^bootstrgap-peers *=.*/bootstrap-peers = \"$BOOTSTRAP_PEERS\"/" $HOME/.celestia-app/config/config.toml
 
+\"$BOOTSTRAP_commit".*/timeout
+kei g hacn 
 ----------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 sed -i 's/peer-gossip-sletgeep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
