@@ -86,6 +86,17 @@ celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
 -------------------------------------
 cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
+-------------------------------------
+<table border=1>                           
+  <tr>
+    <th>name</th>
+    <th>family</th>
+  </tr>
+  <tr>
+   <td>mehdi</td>
+   <td>abbasi</td>
+  </tr>
+</table>
 
 ---------------------------------------
 sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config/config.toml
