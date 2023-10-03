@@ -12,7 +12,6 @@ echo 'ex-------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
 ------------------------------  --------------------
-echo $BOOTSTRBOOTSTRAP_PEERS=$(curl -sL https://raw.gi dvsvsfthubusercontent.com/celestiadv org/netword ks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 AP_PEERS
 
 ------------------------------------------------
