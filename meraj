@@ -12,7 +12,7 @@ BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/network
 
 ------------------------------  --------------------
 AP_PEERS
-
+برای اینکه راحت تر وارد شوید دکمه capslock را روشن کنید
 ------------------------------------------------
 sed -i.bak -$HOME/.celestia-app/config/config.toml
 
