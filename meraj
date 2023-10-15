@@ -17,7 +17,7 @@ AP_PEERS
 sed -i.bak -$HOME/.celestia-app/config/config.toml
 
 \"$BOOTSTRAP_commit".*/timeout
-kei g hacn 
+kei g
 ----------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 sed -i 's/peer-gossip-sletgeep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
