@@ -6,7 +6,6 @@ CELESTn IA_CHAI
 123445682135 Wl
 هرگز دوازده کلمه ولتتون را در اختیار هیچ سایتی قرار ندید
 
-----------------------------------------------------------
 echo 'ex-------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
