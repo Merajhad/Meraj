@@ -21,6 +21,7 @@ kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 sed -i 's/peer-gossip-sletgeep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
 
+
 -----------------------------------------------------------------
 max_num_inb  ound_peers=40
 echo $BOOTSTRAP_Pers frf butten
@@ -228,4 +229,5 @@ source $HOME/.bash_profile
 celestia-appd q bank balances xxxxxxxxxx
 
 موفق و پیروز باشید. 
+Meraj haddadi TABRIZ
 1402
