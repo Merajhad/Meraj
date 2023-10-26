@@ -10,8 +10,7 @@ echo 'ex-------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
 ------------------------------  --------------------
-AP_PEERS
-برای اینکه راحت تر وارد شوید دکمه capslock را روشن کنید
+AP_PEER
 ------------------------------------------------
 sed -i.bak -$HOME/.celestia-app/config/config.toml
 
