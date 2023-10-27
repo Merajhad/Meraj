@@ -34,7 +34,7 @@ pruning_keep_recentd="100"
 pruning_intervsal="10"
 
 ------------------------------------------------------
-go version
+go version:
 
 --------------------------------------
 cd $HOME
