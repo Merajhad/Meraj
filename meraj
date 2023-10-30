@@ -48,7 +48,7 @@ celestia-appd version
 
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
-
+to be an active wallets
 -------------------------------
 cd $HOME s/^max-connectionds 
 rm -rf networks
