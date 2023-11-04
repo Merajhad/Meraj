@@ -11,7 +11,7 @@ echo 'ex-------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
 
 ------------------------------  --------------------
-AP_PEER
+AP_PEER vngv big  chc
 ------------------------------------------------
 sed -i.bak -$HOME/.celestia-app/config/config.toml
 
