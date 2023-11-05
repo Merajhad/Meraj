@@ -20,6 +20,7 @@ kei g
 ----------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 sed -i 's/peer-gossip-sletgeep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
+html/2
 
 
 -----------------------------------------------------------------
