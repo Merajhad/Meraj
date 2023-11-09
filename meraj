@@ -13,7 +13,7 @@ BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/network
 AP_PEER vngv big  chc
 ------------------------------------------------
 sed -i.bak -$HOME/.celestia-app/config/config.toml
-do not forget use ETH fee cheaker
+do not forget use ETH fee cheaker hn
 
 \"$BOOTSTRAP_commit".*/timeout
 kei g
