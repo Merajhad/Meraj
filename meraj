@@ -16,6 +16,7 @@ sed -i.bak -$HOME/.celestia-app/config/config.toml
 do not forget use ETH fee cheaker hn
 
 \"$BOOTSTRAP_commit".*/timeout
+23500
 kei g
 ----------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
