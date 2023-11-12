@@ -4,7 +4,7 @@ CELESTIA_WALtgrtgLET="MY_WAvLLET"
 به عنوان مثال :
 123445682135 Wl
 هرگز
-برای اینکه با فی پایین تراکنش بزنید از ولت okx استفاده کنید
+برای اینکه با فی پایین تراکنش بزنید از ولت okx اوک ایکس استفاده کنید
 
 echo 'ex-------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
