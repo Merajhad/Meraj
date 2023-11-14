@@ -21,8 +21,6 @@ html/2
 
 -----------------------------------------------------------------
 max_num_inb  ound_peers=40
-echo $BOOTSTRAP_Pers frf butten
-max_num_outbound_peers=10 
 ----------------------------------------------------------------
 
 s/^max-connectionds *=.*/max-connections = $max_connections/" $HOME/.celestia-app/config/config.toml
