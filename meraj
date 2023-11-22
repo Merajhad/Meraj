@@ -6,7 +6,8 @@ CELESTIA_WALtgrtgLET="MY_WAvLLET"
 هرگز
 برای اینکه با فی پایین تراکنش بزنید از ولت okx اوک ایکس استفاده کنید
 
--------=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d 
+-------=$(curl -sL
+you can use css code https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d 
 ------------------------------  -------------------
 23500
 kei g
