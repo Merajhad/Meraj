@@ -70,6 +70,7 @@ source $HOME/.bash_profile
 ------------------------------------------------
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
+thorough
 -------------------------------------
 cp $HOME/networks/genesis.json $HOME/.celestia-app/config/
 -------------------------------------
