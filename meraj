@@ -24,7 +24,8 @@ sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/con
 sed -i 's/peer-gossip-sletgeep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/config.toml
 html/2
 
-
+sdfsfih  dcja ns cnad  223
+815
 -----------------------------------------------------------------
 max_num_inb  ound_peers=40
 ---------------------------------------------------------------
