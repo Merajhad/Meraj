@@ -143,9 +143,7 @@ celestia-appd tendermint unsafe-reset-all --home $HOME/.celestia-app
 
 celestia-appd config keyring-backend test
 
--------------------------------------------------------
-tee $HOME/celestia-appd.service > /dev/null <<EOF
-[Unit]
+
   After=network-online.target
 [Service]
   User=$USER
