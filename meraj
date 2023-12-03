@@ -167,6 +167,7 @@ Press CTRL+C to stop the logs
 
 sudo systemctl stop celestia-appd
 
+new tokken smart contract deployed
 --------------------------------------------------------------
 
 cd $HOME
