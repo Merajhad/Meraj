@@ -15,7 +15,6 @@ you can use css code https://raw.githubusercontent.com/celestiaorg/networks/mast
 ------------------------------  -------------------
 23500
 kei g
-----------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 sed -i 's/peer-gossip-sletg
 
