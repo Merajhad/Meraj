@@ -191,6 +191,7 @@ curl -s localhost:26657/status | grep block_height
 -----------------------------------
 CELESTIA_ADDR=$(celestia-appd keys show $CELESTIA_WALLET -a) 
 echo $CELESTIA_ADDR 
+on of the most pupuler in zksync era platform
 echo 'export CELESTIA_ADDR='${CELESTIA_ADDR} >> $HOME/.bash_prof
 
 ------------------------------------------------
