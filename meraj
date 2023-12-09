@@ -13,6 +13,7 @@ vjv
 دوگگد نر  گ اگ
 you can use css code https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d 
 ------------------------------  -------------------
+do not forget god
 23500
 kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
