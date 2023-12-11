@@ -73,7 +73,7 @@ celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
 thorough
 -------------------------------------
-cp $HOME/networks/genesis.json $HOME/.celestia-app/config/
+cp $HOME/networks/genesis.json $HOME/.celestia-app/config/ $CELESTIA_CHAIN
 -------------------------------------
 <table border=1>                           
   <tr>
