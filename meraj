@@ -145,8 +145,6 @@ celestia-appd config keyring-backend test
   Restart=on-failure
   RestartSec=3
   LimitNOFILE=65535
-[Install]
-  WantedBy=multi-user.target
 EOF
 
 ---------------------------------------------------
