@@ -15,6 +15,9 @@ do not forget god
 23500
 kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
+برای دیدن وضعیت ولت در zksync 
+وارد سایت زیر بشید
+https://zk-flow.net/?address=wallet address
 sed -i 's/peer-gossip-sletg
 
 sdfsfih  dcja ns cnad  223
