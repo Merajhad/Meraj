@@ -6,8 +6,8 @@ gt12 characters
 CELESTIA_WALtgrtgLET="MY_WAvLLET"
 به عنوان مثال :
 123445682135 W
-hhkv 
-vjv 
+
+
  استفاده کنی
 you can use css code https://raw.githubusercontent.com/celestiaorg/networks/
 ------------------------------  -------------------
@@ -119,8 +119,7 @@ def decrypt(encrypted_text, key):
 message = "Hello, World!"
 encryption_key = 3
 encrypted_message = encrypt(message, encryption_key)
-print("Encrypted Message:", encrypted_message)
-print("Decrypted Message:", decrypt(encrypted_message, encryption_key))
+print("Encrypted Message:", encrypted_message
 
 ------------------------------------------------------
 sed -i -e "s/^pruning *=.*/pruning = \"custom\"/;\
