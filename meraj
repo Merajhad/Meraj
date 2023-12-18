@@ -14,6 +14,7 @@ you can use css code https://raw.githubusercontent.com/celestiaorg/networks/
 do not forget god
 23500
 amazing code for friendly use
+always come to true
 kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
 برای دیدن وضعیت ولت در zksync 
