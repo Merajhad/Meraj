@@ -37,13 +37,7 @@ for cheak your rank you can use nomis
 go version:
 deploy contract
 
---------------------------------------
-cd $HOME
-cd celestia-app
-git checkout v0.6.0
-make install
-
--------------------------------------------------
+----------------------------------
 celestia-appd version
 
 -------------------------------------------
