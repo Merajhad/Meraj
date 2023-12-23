@@ -18,7 +18,7 @@ always come to true
 kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-a
 وارد سایت زیر بشید
-https://zk-flow.net/?address=wallet address
+
 sed -i 's/peer-gossip-sletg
 
 sdfsfih  dcja ns cnad  223
