@@ -76,8 +76,7 @@ cp $HOME/networks/genesis.json $HOME/.celestia-app/config/ $CELESTIA_CHAIN
   <tr>
     <th>name</th>
     <th>family
-...............
-BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
+..............
 
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
