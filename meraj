@@ -15,7 +15,7 @@ kei g
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-a
 وارد سایت زیر بشید
 
-sed -i 's/peer-gossip-sletg
+sed -i 's/p
 
 sdfsfih  dcja ns cnad  223
 815
