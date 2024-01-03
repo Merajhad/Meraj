@@ -132,7 +132,6 @@ celestia-appd config keyring-backend test
   After=network-online.target
 [Service]
   User=$USER
-  ExecStart=$(which celestia-appd) start
   Restart=on-failure
   RestartSec=3
   LimitNOFILE=65535
