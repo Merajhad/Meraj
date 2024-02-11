@@ -6,7 +6,7 @@ gt12 characters
 به عنوان مثال :
 123445682135 W
 هوش مصنوعی 
-sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-a
+sed -i 's/timeout-commig' $HOME/.celestia-a
 وارد سایت زیر بشید
 
 sed -i 's/p
